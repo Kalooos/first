@@ -1,0 +1,86 @@
+.header{
+    color: rgb(128, 88, 136);
+    font-size: 56px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.paragraph{
+    color: rgb(128, 88, 136);
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.image{
+    max-width: 900px;
+    border-radius: 10px;
+    margin: auto;
+}
+.button{
+    background-color: rgb(128, 88, 136);
+    color: white;
+    width: 400px;
+    height: 200px;
+    font-size: 30px;
+    border: 3px;
+    border-color:black;
+    border-radius: 10px;
+    margin: 10px 0px 0px 50px;
+}
+.button:hover{
+    opacity: 0.5;
+}
+.div{
+    max-width: 1000px;
+    margin: auto;
+    background-color: rgb(231, 231, 231);
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.flex-container{
+    margin-top: 30px;
+    display: flex;
+    flex-wrap: wrap;
+  justify-content: center;
+
+}
+.flex-element{
+    background-color: #cfb5989c;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 300px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    margin: 1px;
+}
+
+.flex-image{
+    width: 90%;
+    margin-top: 20px;
+    border-radius: 10px;
+
+}
+
+
+.flex_hearder{
+    font-size: 25px;
+    text-align: center;
+}
+
+.flex_text{
+    font-size: 20px;
+    margin: 5px;
+    margin-bottom: 20px;
+    margin-top: 0px;
+   font-style: italic;
+  
+
+}
+
+.body{
+    background-color:#D3D3D3;
+}
